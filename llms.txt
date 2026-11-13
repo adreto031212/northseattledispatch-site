@@ -1,0 +1,51 @@
+# North Seattle Dispatch
+
+> The North Seattle Dispatch is a free weekly email newsletter about Seattle, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in North Seattle](https://www.northseattledispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [North Seattle news](https://www.northseattledispatch.com/news/): every story, newest first
+- [Reader asked](https://www.northseattledispatch.com/asked/): readers' questions answered from the public record
+- [Standards](https://www.northseattledispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.northseattledispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Lake City](https://www.northseattledispatch.com/lake-city/): The business district along Lake City Way NE around NE 125th Street, with the Lake City community center, the library and Albert Davis Park.
+- [Cedar Park](https://www.northseattledispatch.com/cedar-park/): The hillside north of Matthews Beach between Lake City Way NE and the Burke-Gilman Trail, looking out over Lake Washington.
+- [Matthews Beach](https://www.northseattledispatch.com/matthews-beach/): Matthews Beach Park on Lake Washington, the Burke-Gilman Trail and the mouth of Thornton Creek.
+- [Meadowbrook](https://www.northseattledispatch.com/meadowbrook/): Meadowbrook Pond, the Meadowbrook community center and pool, and the Thornton Creek corridor along 35th Avenue NE.
+- [Pinehurst](https://www.northseattledispatch.com/pinehurst/): Along 15th Avenue NE between Northgate and Lake City, with the Jackson Park golf course and its perimeter trail.
+- [Northgate](https://www.northseattledispatch.com/northgate/): Northgate Station, the pedestrian bridge over I-5 to North Seattle College, the redeveloped mall site and Hubbard Homestead Park.
+- [Haller Lake](https://www.northseattledispatch.com/haller-lake/): The lake itself and the streets around it west of I-5, with Northacres Park and Northgate to the south.
+- [Bitter Lake](https://www.northseattledispatch.com/bitter-lake/): Bitter Lake with its playfield and community center, and the Aurora Avenue North corridor along the east side.
+- [Broadview](https://www.northseattledispatch.com/broadview/): The northwest corner of the city above Puget Sound, with Carkeek Park, the Piper's Creek trails and Greenwood Avenue North.
+- [North Beach / Blue Ridge](https://www.northseattledispatch.com/north-beach-blue-ridge/): The bluff above Puget Sound between Golden Gardens and Carkeek Park, looking west to the Olympics.
+
+## Latest
+- [The I-5 southbound on-ramp at NE 130th Street did not reopen for good on November 5: it is closed again until as soon as 5 AM Friday, November 13](https://www.northseattledispatch.com/news/2026-11-12-the-i-5-southbound-on-ramp-at-ne-130th-street-did-not-reopen-for-good/) (2026-11-12)
+- [The council's committee votes on the 2027 budget start Friday, November 13, at 9:30 AM, and the final vote is set for Friday, November 20, at 1 PM](https://www.northseattledispatch.com/news/2026-11-12-the-council-s-committee-votes-on-the-2027-budget-start-friday-november/) (2026-11-12)
+- [The city has posted a draft vision for the North Aurora corridor, N 80th to N 145th Streets, and is taking comments on it online](https://www.northseattledispatch.com/news/2026-11-12-the-city-has-posted-a-draft-vision-for-the-north-aurora-corridor-n-80t/) (2026-11-12)
+- [free extra leaf pickup, all November](https://www.northseattledispatch.com/news/2026-11-12-free-extra-leaf-pickup-all-november/) (2026-11-12)
+- [About the history of Roosevelt north of NE 130th Street, and how I-5 changed it](https://www.northseattledispatch.com/asked/2026-11-12-about-the-history-of-roosevelt-north-of-ne-130th-street-and-how-i-5-ch/) (2026-11-12)
+- [The I-5 southbound on-ramp at NE 130th Street is due to reopen at 5 AM Thursday, November 5](https://www.northseattledispatch.com/news/2026-11-05-the-i-5-southbound-on-ramp-at-ne-130th-street-is-due-to-reopen-at-5-am/) (2026-11-05)
+- [The city's budget calendar lists the balancing package as published November 3, with a Budget Chair briefing and a public hearing this week](https://www.northseattledispatch.com/news/2026-11-05-the-city-s-budget-calendar-lists-the-balancing-package-as-published-no/) (2026-11-05)
+- [a shutoff valve you can find before the freeze](https://www.northseattledispatch.com/news/2026-11-05-a-shutoff-valve-you-can-find-before-the-freeze/) (2026-11-05)
+- [When the big Japanese grocery on Aurora opens](https://www.northseattledispatch.com/asked/2026-11-05-when-the-big-japanese-grocery-on-aurora-opens/) (2026-11-05)
+- [The I-5 southbound on-ramp at NE 130th Street is now scheduled to stay closed until 5 AM Thursday, November 5](https://www.northseattledispatch.com/news/2026-10-29-the-i-5-southbound-on-ramp-at-ne-130th-street-is-now-scheduled-to-stay/) (2026-10-29)
+- [Ballots for the November 3 general election are due by 8 PM Tuesday](https://www.northseattledispatch.com/news/2026-10-29-ballots-for-the-november-3-general-election-are-due-by-8-pm-tuesday/) (2026-10-29)
+- [Tonight and Friday night, from 11 PM, light rail runs on one track at Pinehurst and Shoreline South/148th](https://www.northseattledispatch.com/news/2026-10-29-tonight-and-friday-night-from-11-pm-light-rail-runs-on-one-track-at-pi/) (2026-10-29)
+- [The council's budget package comes out Tuesday, November 3, and the public hearing is Thursday, November 5](https://www.northseattledispatch.com/news/2026-10-29-the-council-s-budget-package-comes-out-tuesday-november-3-and-the-publ/) (2026-10-29)
+- [You can ask for a public EV charger at the curb near where you live](https://www.northseattledispatch.com/news/2026-10-29-you-can-ask-for-a-public-ev-charger-at-the-curb-near-where-you-live/) (2026-10-29)
+- [new batteries when the clocks change](https://www.northseattledispatch.com/news/2026-10-29-new-batteries-when-the-clocks-change/) (2026-10-29)
+- [How to reach Golden Gardens Park by bus, and what the walk is like](https://www.northseattledispatch.com/asked/2026-10-29-how-to-reach-golden-gardens-park-by-bus-and-what-the-walk-is-like/) (2026-10-29)
+- [The I-5 southbound on-ramp at NE 130th Street now closes as soon as Monday, October 26, a week later than first scheduled](https://www.northseattledispatch.com/news/2026-10-22-the-i-5-southbound-on-ramp-at-ne-130th-street-now-closes-as-soon-as-mo/) (2026-10-22)
+- [The new roundabout at Roosevelt Way NE and 10th Ave NE is open to vehicles in all directions](https://www.northseattledispatch.com/news/2026-10-22-the-new-roundabout-at-roosevelt-way-ne-and-10th-ave-ne-is-open-to-vehi/) (2026-10-22)
+- [Several elevators at Pinehurst Station have been out since Monday, October 19](https://www.northseattledispatch.com/news/2026-10-22-several-elevators-at-pinehurst-station-have-been-out-since-monday-octo/) (2026-10-22)
+- [Carkeek Park's free salmon weekends start Saturday, October 24](https://www.northseattledispatch.com/news/2026-10-22-carkeek-park-s-free-salmon-weekends-start-saturday-october-24/) (2026-10-22)
+- [Three free Halloween events at North Seattle community centers](https://www.northseattledispatch.com/news/2026-10-22-three-free-halloween-events-at-north-seattle-community-centers/) (2026-10-22)
+- [clear the drain, not the street](https://www.northseattledispatch.com/news/2026-10-22-clear-the-drain-not-the-street/) (2026-10-22)
+- [The I-5 southbound on-ramp at NE 130th Street closes around the clock for about 14 days, starting as soon as Monday, October 19](https://www.northseattledispatch.com/news/2026-10-17-the-i-5-southbound-on-ramp-at-ne-130th-street-closes-around-the-clock/) (2026-10-17)
+- [Pinehurst Station is open, and this weekend the 2 Line runs on buses between Downtown and the Eastside](https://www.northseattledispatch.com/news/2026-10-17-pinehurst-station-is-open-and-this-weekend-the-2-line-runs-on-buses-be/) (2026-10-17)
+- [Seattle's 2027–28 budget: public hearing November 5, final vote November 20](https://www.northseattledispatch.com/news/2026-10-17-seattle-s-2027-28-budget-public-hearing-november-5-final-vote-november/) (2026-10-17)
+- [Want your block closed for Halloween? Apply by Tuesday, October 20](https://www.northseattledispatch.com/news/2026-10-17-want-your-block-closed-for-halloween-apply-by-tuesday-october-20/) (2026-10-17)
+- [November 2, not October 31](https://www.northseattledispatch.com/news/2026-10-17-november-2-not-october-31/) (2026-10-17)
